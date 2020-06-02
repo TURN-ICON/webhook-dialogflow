@@ -1,0 +1,29 @@
+{
+  "name": "webhook-dialogflow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "actions-on-google": "^2.7.0",
+    "body-parser": "^1.19.0",
+    "dialogflow-fulfillment": "^0.6.1",
+    "express": "^4.17.1",
+    "morgan": "^1.9.1",
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siriphonNott/webhook-dialogflow.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siriphonNott/webhook-dialogflow/issues"
+  },
+  "homepage": "https://github.com/siriphonNott/webhook-dialogflow#readme"
+}
