@@ -18,12 +18,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/siriphonNott/webhook-dialogflow.git"
+    "url": "git+https://github.com/TURNEDz/webhook-dialogflow.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/siriphonNott/webhook-dialogflow/issues"
+    "url": "https://github.com/TURNEDz/webhook-dialogflow/issues"
   },
-  "homepage": "https://github.com/siriphonNott/webhook-dialogflow#readme"
+  "homepage": "https://github.com/TURNEDz/webhook-dialogflow"
 }
