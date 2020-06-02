@@ -11,7 +11,7 @@ app.use(bodyParser.json())
 app.use('/webhook', require('./routes/webhook.js'));
 
 app.get('/', (req, res) => {
-  res.send("<h1>Welcome to ICON webhook</h1>");
+  res.send("<h1>ICON webhook</h1>");
 });
 
 app.listen(port, () => {
