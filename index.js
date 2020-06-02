@@ -12,7 +12,7 @@ app.use('/webhook', require('./routes/webhook.js'));
 
 app.get('/', (req, res) => {
   res.send("<h1>Welcome to webhook-dialogflow</h1>");
-})
+});
 
 
 
